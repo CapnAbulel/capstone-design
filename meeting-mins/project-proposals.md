@@ -4,19 +4,19 @@
 - The capabilities and limitations of the project are discussed. 
 
 ### Minimum Capabilities
-[ ] Open-loop movement with manual control
-[ ] Durable build 
-[ ] Visual sensory using camera sensor (at least one)
-[ ] Remote-control from base station
-[ ] Networking between multiple computers
+- [ ] Open-loop movement with manual control
+- [ ] Durable build 
+- [ ] Visual sensory using camera sensor (at least one)
+- [ ] Remote-control from base station
+- [ ] Networking between multiple computers
 
 ### Should further have
-[ ] Closed-loop movement with manual control
-[ ] Suspension for shock absorption
-[ ] Sufficient sensory to detect and formulate local map
-[ ] Data Collection of Different sensors
-[ ] Robotic-Arm 
+- [ ] Closed-loop movement with manual control
+- [ ] Suspension for shock absorption
+- [ ] Sufficient sensory to detect and formulate local map
+- [ ] Data Collection of Different sensors
+- [ ] Robotic-Arm 
 
 ### Optimistically will further have
-[ ] Closed-loop semi-autonomous movement
-[ ] Autonomous movement of Robotic Arm
+- [ ] Closed-loop semi-autonomous movement
+- [ ] Autonomous movement of Robotic Arm
